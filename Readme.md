@@ -12,8 +12,8 @@
  
 ## Glimpse at data
 
-country  | total_in_km | km | neighbor
-------------- | -------------
+country  | total _ in _ km | km | neighbor
+------------- | ------------- | ------------- | -------------
 Afghanistan|5.987|91|China
 Afghanistan|5.987|921|Iran
 ...
