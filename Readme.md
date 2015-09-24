@@ -2,7 +2,7 @@
 
 ## Source
 
-[CIA Factbookl](https://www.cia.gov/library/publications/the-world-factbook/fields/2096.html)
+[CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/fields/2096.html)
 
 ## Variables
 - country: borders from this country's point of view 
