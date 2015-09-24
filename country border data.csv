@@ -1,770 +1,770 @@
-country;total_in_km;km;neighbor
-Afghanistan;5.987;91;China
-Afghanistan;5.987;921;Iran
-Afghanistan;5.987;2670;Pakistan
-Afghanistan;5.987;1357;Tajikistan
-Afghanistan;5.987;804;Turkmenistan
-Afghanistan;5.987;144;Uzbekistan
-Akrotiri;48;48;Cyprus
-Albania;691;212;Greece
-Albania;691;112;Kosovo
-Albania;691;181;Macedonia
-Albania;691;186;Montenegro
-Algeria;6.734;989;Libya
-Algeria;6.734;1359;Mali
-Algeria;6.734;460;Mauritania
-Algeria;6.734;1900;Morocco
-Algeria;6.734;951;Niger
-Algeria;6.734;1034;Tunisia
-Algeria;6.734;41;Western
-American Samoa;0;NA;no
-Andorra;118;55;France
-Andorra;118;63;Spain
-Angola;5.369;2646;Democratic
-Angola;5.369;231;Republic
-Angola;5.369;1427;Namibia
-Angola;5.369;1065;Zambia
-Anguilla;0;NA;no
-Antarctica;0;NA;no
-Antigua and Barbuda;0;NA;no
-Argentina;11.968;942;Bolivia
-Argentina;11.968;1263;Brazil
-Argentina;11.968;6691;Chile
-Argentina;11.968;2531;Paraguay
-Argentina;11.968;541;Uruguay
-Armenia;1.57;996;Azerbaijan
-Armenia;1.57;219;Georgia
-Armenia;1.57;44;Iran
-Armenia;1.57;311;Turkey
-Aruba;0;NA;no
-Ashmore and Cartier Islands;0;NA;no
-Australia;0;NA;no
-Austria;2.524;402;Czech
-Austria;2.524;801;Germany
-Austria;2.524;321;Hungary
-Austria;2.524;404;Italy
-Austria;2.524;34;Liechtenstein
-Austria;2.524;105;Slovakia
-Austria;2.524;299;Slovenia
-Austria;2.524;158;Switzerland
-Azerbaijan;2.468;996;Armenia
-Azerbaijan;2.468;428;Georgia
-Azerbaijan;2.468;689;Iran
-Azerbaijan;2.468;338;Russia
-Azerbaijan;2.468;17;Turkey
-Bahamas;0;NA;no
-Bahrain;0;NA;no
-Bangladesh;4.413;271;Burma
-Bangladesh;4.413;4142;India
-Barbados;0;NA;no
-Belarus;3.642;161;Latvia
-Belarus;3.642;640;Lithuania
-Belarus;3.642;418;Poland
-Belarus;3.642;1312;Russia
-Belarus;3.642;1111;Ukraine
-Belgium;1.297;556;France
-Belgium;1.297;133;Germany
-Belgium;1.297;130;Luxembourg
-Belgium;1.297;478;Netherlands
-Belize;542;266;Guatemala
-Belize;542;276;Mexico
-Benin;2.123;386;Burkina
-Benin;2.123;277;Niger
-Benin;2.123;809;Nigeria
-Benin;2.123;651;Togo
-Bermuda;0;NA;no
-Bhutan;1.136;477;China
-Bhutan;1.136;659;India
-Bolivia;7.252;942;Argentina
-Bolivia;7.252;3403;Brazil
-Bolivia;7.252;942;Chile
-Bolivia;7.252;753;Paraguay
-Bolivia;7.252;1212;Peru
-Bosnia and Herzegovina;1.543;956;Croatia
-Bosnia and Herzegovina;1.543;242;Montenegro
-Bosnia and Herzegovina;1.543;345;Serbia
-Botswana;4.347;1544;Namibia
-Botswana;4.347;1969;South
-Botswana;4.347;0;Zambia
-Botswana;4.347;834;Zimbabwe
-Bouvet Island;0;NA;no
-Brazil;16.145;1263;Argentina
-Brazil;16.145;3403;Bolivia
-Brazil;16.145;1790;Colombia
-Brazil;16.145;649;French
-Brazil;16.145;1308;Guyana
-Brazil;16.145;1371;Paraguay
-Brazil;16.145;2659;Peru
-Brazil;16.145;515;Suriname
-Brazil;16.145;1050;Uruguay
-Brazil;16.145;2137;Venezuela
-British Indian Ocean Territory;0;NA;no
-British Virgin Islands;0;NA;no
-Brunei;266;266;Malaysia
-Bulgaria;1.806;472;Greece
-Bulgaria;1.806;162;Macedonia
-Bulgaria;1.806;605;Romania
-Bulgaria;1.806;344;Serbia
-Bulgaria;1.806;223;Turkey
-Burkina Faso;3.611;386;Benin
-Burkina Faso;3.611;545;Cote
-Burkina Faso;3.611;602;Ghana
-Burkina Faso;3.611;1325;Mali
-Burkina Faso;3.611;622;Niger
-Burkina Faso;3.611;131;Togo
-Burma;6.522;271;Bangladesh
-Burma;6.522;2129;China
-Burma;6.522;1468;India
-Burma;6.522;238;Laos
-Burma;6.522;2416;Thailand
-Burundi;1.14;236;Democratic
-Burundi;1.14;315;Rwanda
-Burundi;1.14;589;Tanzania
-Cabo Verde;0;NA;no
-Cambodia;2.53;555;Laos
-Cambodia;2.53;817;Thailand
-Cambodia;2.53;1158;Vietnam
-Cameroon;5.018;901;Central
-Cameroon;5.018;1116;Chad
-Cameroon;5.018;494;Republic
-Cameroon;5.018;183;Equatorial
-Cameroon;5.018;349;Gabon
-Cameroon;5.018;1975;Nigeria
-Canada;8.893;8893;US
-Cayman Islands;0;NA;no
-Central African Republic;5.92;901;Cameroon
-Central African Republic;5.92;1556;Chad
-Central African Republic;5.92;1747;Democratic
-Central African Republic;5.92;487;Republic
-Central African Republic;5.92;1055;South
-Central African Republic;5.92;174;Sudan
-Chad;6.406;1116;Cameroon
-Chad;6.406;1556;Central
-Chad;6.406;1050;Libya
-Chad;6.406;1196;Niger
-Chad;6.406;85;Nigeria
-Chad;6.406;1403;Sudan
-Chile;7.801;6691;Argentina
-Chile;7.801;942;Bolivia
-Chile;7.801;168;Peru
-China;22.457;91;Afghanistan
-China;22.457;477;Bhutan
-China;22.457;2129;Burma
-China;22.457;2659;India
-China;22.457;1765;Kazakhstan
-China;22.457;1352;North
-China;22.457;1063;Kyrgyzstan
-China;22.457;475;Laos
-China;22.457;4630;Mongolia
-China;22.457;1389;Nepal
-China;22.457;438;Pakistan
-China;22.457;4133;Russia
-China;22.457;46;Russia
-China;22.457;477;Tajikistan
-China;22.457;1297;Vietnam
-China;22.457;3;Macau
-China;22.457;33;Hong
-Christmas Island;0;NA;no
-Clipperton Island;0;NA;no
-Cocos (Keeling) Islands;0;NA;no
-Colombia;6.672;1790;Brazil
-Colombia;6.672;708;Ecuador
-Colombia;6.672;339;Panama
-Colombia;6.672;1494;Peru
-Colombia;6.672;2341;Venezuela
-Comoros;0;NA;no
-Cook Islands;0;NA;no
-Coral Sea Islands;0;NA;no
-Costa Rica;661;313;Nicaragua
-Costa Rica;661;348;Panama
-Cote d'Ivoire;3.458;545;Burkina
-Cote d'Ivoire;3.458;720;Ghana
-Cote d'Ivoire;3.458;816;Guinea
-Cote d'Ivoire;3.458;778;Liberia
-Cote d'Ivoire;3.458;599;Mali
-Croatia;2.237;956;Bosnia
-Croatia;2.237;348;Hungary
-Croatia;2.237;19;Montenegro
-Croatia;2.237;314;Serbia
-Croatia;2.237;600;Slovenia
-Cuba;28.5;28;USA
-Curacao;0;NA;no
-Cyprus;156;48;Akrotiri
-Cyprus;156;108;Dhekelia
-Czech Republic;2.143;402;Austria
-Czech Republic;2.143;704;Germany
-Czech Republic;2.143;796;Poland
-Czech Republic;2.143;241;Slovakia
-Democratic Republic of the Congo;10.481;2646;Angola
-Democratic Republic of the Congo;10.481;236;Burundi
-Democratic Republic of the Congo;10.481;1747;Central
-Democratic Republic of the Congo;10.481;1229;Republic
-Democratic Republic of the Congo;10.481;221;Rwanda
-Democratic Republic of the Congo;10.481;714;South
-Democratic Republic of the Congo;10.481;479;Tanzania
-Democratic Republic of the Congo;10.481;877;Uganda
-Democratic Republic of the Congo;10.481;2332;Zambia
-Denmark;140;140;Germany
-Dhekelia;108;108;Cyprus
-Djibouti;528;125;Eritrea
-Djibouti;528;342;Ethiopia
-Djibouti;528;61;Somalia
-Dominica;0;NA;no
-Dominican Republic;376;376;Haiti
-Ecuador;2.237;708;Colombia
-Ecuador;2.237;1529;Peru
-Egypt;2.612;13;Gaza
-Egypt;2.612;208;Israel
-Egypt;2.612;1115;Libya
-Egypt;2.612;1276;Sudan
-El Salvador;590;199;Guatemala
-El Salvador;590;391;Honduras
-Equatorial Guinea;528;183;Cameroon
-Equatorial Guinea;528;345;Gabon
-Eritrea;1.84;125;Djibouti
-Eritrea;1.84;1033;Ethiopia
-Eritrea;1.84;682;Sudan
-Estonia;657;333;Latvia
-Estonia;657;324;Russia
-Ethiopia;5.925;342;Djibouti
-Ethiopia;5.925;1033;Eritrea
-Ethiopia;5.925;867;Kenya
-Ethiopia;5.925;1640;Somalia
-Ethiopia;5.925;1299;South
-Ethiopia;5.925;744;Sudan
-European Union;13.271;212;Albania
-European Union;13.271;118;Andorra
-European Union;13.271;1176;Belarus
-European Union;13.271;956;Bosnia
-European Union;13.271;3;Holy
-European Union;13.271;34;Liechtenstein
-European Union;13.271;396;Macedonia
-European Union;13.271;683;Moldova
-European Union;13.271;6;Monaco
-European Union;13.271;19;Montenegro
-European Union;13.271;2375;Norway
-European Union;13.271;2435;Russia
-European Union;13.271;37;San
-European Union;13.271;1353;Serbia
-European Union;13.271;1729;Switzerland
-European Union;13.271;415;Turkey
-European Union;13.271;1324;Ukraine
-Falkland Islands (Islas Malvinas);0;NA;no
-Faroe Islands;0;NA;no
-Fiji;0;NA;no
-Finland;2.563;709;Norway
-Finland;2.563;545;Sweden
-Finland;2.563;1309;Russia
-France;2.751;55;Andorra
-France;2.751;556;Belgium
-France;2.751;418;Germany
-France;2.751;476;Italy
-France;2.751;69;Luxembourg
-France;2.751;6;Monaco
-France;2.751;646;Spain
-France;2.751;525;Switzerland
-French Guiana;1205;649;Brazil
-French Guiana;1205;556;Suriname
-French Polynesia;0;NA;no
-French Southern and Antarctic Lands;0;NA;no
-Gabon;3.261;349;Cameroon
-Gabon;3.261;2567;Republic
-Gabon;3.261;345;Equatorial
-Gaza Strip;72;13;Egypt
-Gaza Strip;72;59;Israel
-Georgia;1.814;219;Armenia
-Georgia;1.814;428;Azerbaijan
-Georgia;1.814;894;Russia
-Georgia;1.814;273;Turkey
-Germany;3.714;801;Austria
-Germany;3.714;133;Belgium
-Germany;3.714;704;Czech
-Germany;3.714;140;Denmark
-Germany;3.714;418;France
-Germany;3.714;128;Luxembourg
-Germany;3.714;575;Netherlands
-Germany;3.714;467;Poland
-Germany;3.714;348;Switzerland
-Ghana;2.42;602;Burkina
-Ghana;2.42;720;Cote
-Ghana;2.42;1098;Togo
-Gibraltar;1.2;1;Spain
-Greece;1.11;212;Albania
-Greece;1.11;472;Bulgaria
-Greece;1.11;234;Macedonia
-Greece;1.11;192;Turkey
-Greenland;0;NA;no
-Grenada;0;NA;no
-Guam;0;NA;no
-Guatemala;1.667;266;Belize
-Guatemala;1.667;199;El
-Guatemala;1.667;244;Honduras
-Guatemala;1.667;958;Mexico
-Guernsey;0;NA;no
-Guinea;4.046;816;Cote
-Guinea;4.046;421;Guinea
-Guinea;4.046;590;Liberia
-Guinea;4.046;1062;Mali
-Guinea;4.046;363;Senegal
-Guinea;4.046;794;Sierra
-Guinea-Bissau;762;421;Guinea
-Guinea-Bissau;762;341;Senegal
-Guyana;2.933;1308;Brazil
-Guyana;2.933;836;Suriname
-Guyana;2.933;789;Venezuela
-Haiti;376;376;Dominican
-Heard Island and McDonald Islands;0;NA;no
-Honduras;1.575;244;Guatemala
-Honduras;1.575;391;El
-Honduras;1.575;940;Nicaragua
-Hong Kong;33;33;China
-Howland Island;0;NA;no
-Hungary;2.106;321;Austria
-Hungary;2.106;348;Croatia
-Hungary;2.106;424;Romania
-Hungary;2.106;164;Serbia
-Hungary;2.106;627;Slovakia
-Hungary;2.106;94;Slovenia
-Hungary;2.106;128;Ukraine
-Iceland;0;NA;no
-India;13.888;4142;Bangladesh
-India;13.888;659;Bhutan
-India;13.888;1468;Burma
-India;13.888;2659;China
-India;13.888;1770;Nepal
-India;13.888;3190;Pakistan
-Indonesia;2.958;253;Timor
-Indonesia;2.958;1881;Malaysia
-Indonesia;2.958;824;Papua
-Iran;5.894;921;Afghanistan
-Iran;5.894;44;Armenia
-Iran;5.894;689;Azerbaijan
-Iran;5.894;1599;Iraq
-Iran;5.894;959;Pakistan
-Iran;5.894;534;Turkey
-Iran;5.894;1148;Turkmenistan
-Iraq;3.809;1599;Iran
-Iraq;3.809;179;Jordan
-Iraq;3.809;254;Kuwait
-Iraq;3.809;811;Saudi
-Iraq;3.809;599;Syria
-Iraq;3.809;367;Turkey
-Ireland;443;443;UK
-Isle of Man;0;NA;no
-Israel;1.068;208;Egypt
-Israel;1.068;59;Gaza
-Israel;1.068;307;Jordan
-Israel;1.068;81;Lebanon
-Israel;1.068;83;Syria
-Israel;1.068;330;West
-Italy;1.836;404;Austria
-Italy;1.836;476;France
-Italy;1.836;3;Holy
-Italy;1.836;37;San
-Italy;1.836;218;Slovenia
-Italy;1.836;698;Switzerland
-Jamaica;0;NA;no
-Jan Mayen;0;NA;no
-Japan;0;NA;no
-Jarvis Island;0;NA;no
-Jersey;0;NA;no
-Johnston Atoll;0;NA;no
-Jordan;1.744;179;Iraq
-Jordan;1.744;307;Israel
-Jordan;1.744;731;Saudi
-Jordan;1.744;379;Syria
-Jordan;1.744;148;West
-Kazakhstan;13.364;1765;China
-Kazakhstan;13.364;1212;Kyrgyzstan
-Kazakhstan;13.364;7644;Russia
-Kazakhstan;13.364;413;Turkmenistan
-Kazakhstan;13.364;2330;Uzbekistan
-Kenya;3.457;867;Ethiopia
-Kenya;3.457;684;Somalia
-Kenya;3.457;317;South
-Kenya;3.457;775;Tanzania
-Kenya;3.457;814;Uganda
-Kingman Reef;0;NA;no
-Kiribati;0;NA;no
-Kosovo;714;112;Albania
-Kosovo;714;160;Macedonia
-Kosovo;714;76;Montenegro
-Kosovo;714;366;Serbia
-Kuwait;475;254;Iraq
-Kuwait;475;221;Saudi
-Kyrgyzstan;4.573;1063;China
-Kyrgyzstan;4.573;1212;Kazakhstan
-Kyrgyzstan;4.573;984;Tajikistan
-Kyrgyzstan;4.573;1314;Uzbekistan
-Laos;5.274;238;Burma
-Laos;5.274;555;Cambodia
-Laos;5.274;475;China
-Laos;5.274;1845;Thailand
-Laos;5.274;2161;Vietnam
-Latvia;1.37;161;Belarus
-Latvia;1.37;333;Estonia
-Latvia;1.37;544;Lithuania
-Latvia;1.37;332;Russia
-Lebanon;484;81;Israel
-Lebanon;484;403;Syria
-Lesotho;1.106;1106;South
-Liberia;1.667;590;Guinea
-Liberia;1.667;778;Cote
-Liberia;1.667;299;Sierra
-Libya;4.339;989;Algeria
-Libya;4.339;1050;Chad
-Libya;4.339;1115;Egypt
-Libya;4.339;342;Niger
-Libya;4.339;382;Sudan
-Libya;4.339;461;Tunisia
-Liechtenstein;75;34;Austria
-Liechtenstein;75;41;Switzerland
-Lithuania;1.549;640;Belarus
-Lithuania;1.549;544;Latvia
-Lithuania;1.549;104;Poland
-Lithuania;1.549;261;Russia
-Luxembourg;327;130;Belgium
-Luxembourg;327;69;France
-Luxembourg;327;128;Germany
-Macau;3;3;China
-Macedonia;838;181;Albania
-Macedonia;838;162;Bulgaria
-Macedonia;838;234;Greece
-Macedonia;838;160;Kosovo
-Macedonia;838;101;Serbia
-Madagascar;0;NA;no
-Malawi;2.857;1498;Mozambique
-Malawi;2.857;512;Tanzania
-Malawi;2.857;847;Zambia
-Malaysia;2.742;266;Brunei
-Malaysia;2.742;1881;Indonesia
-Malaysia;2.742;595;Thailand
-Maldives;0;NA;no
-Mali;7.908;1359;Algeria
-Mali;7.908;1325;Burkina
-Mali;7.908;599;Cote
-Mali;7.908;1062;Guinea
-Mali;7.908;2236;Mauritania
-Mali;7.908;838;Niger
-Mali;7.908;489;Senegal
-Malta;0;NA;no
-Marshall Islands;0;NA;no
-Mauritania;5.002;460;Algeria
-Mauritania;5.002;2236;Mali
-Mauritania;5.002;742;Senegal
-Mauritania;5.002;1564;Western
-Mauritius;0;NA;no
-Mexico;4.389;276;Belize
-Mexico;4.389;958;Guatemala
-Mexico;4.389;3155;US
-Micronesia;0;NA;no
-Midway Islands;0;NA;no
-Moldova;1.885;683;Romania
-Moldova;1.885;1202;Ukraine
-Monaco;6;6;France
-Mongolia;8.082;4630;China
-Mongolia;8.082;3452;Russia
-Montenegro;680;186;Albania
-Montenegro;680;242;Bosnia
-Montenegro;680;19;Croatia
-Montenegro;680;76;Kosovo
-Montenegro;680;157;Serbia
-Montserrat;0;NA;no
-Morocco;2.362;1900;Algeria
-Morocco;2.362;444;Western
-Morocco;2.362;8;Ceuta
-Morocco;2.362;10;Melilla
-Mozambique;4.783;1498;Malawi
-Mozambique;4.783;496;South
-Mozambique;4.783;108;Swaziland
-Mozambique;4.783;840;Tanzania
-Mozambique;4.783;439;Zambia
-Mozambique;4.783;1402;Zimbabwe
-Namibia;4.22;1427;Angola
-Namibia;4.22;1544;Botswana
-Namibia;4.22;1005;South
-Namibia;4.22;244;Zambia
-Nauru;0;NA;no
-Navassa Island;0;NA;no
-Nepal;3.159;1389;China
-Nepal;3.159;1770;India
-Netherlands;1.053;478;Belgium
-Netherlands;1.053;575;Germany
-New Caledonia;0;NA;no
-New Zealand;0;NA;no
-Nicaragua;1.253;313;Costa
-Nicaragua;1.253;940;Honduras
-Niger;5.834;951;Algeria
-Niger;5.834;277;Benin
-Niger;5.834;622;Burkina
-Niger;5.834;1196;Chad
-Niger;5.834;342;Libya
-Niger;5.834;838;Mali
-Niger;5.834;1608;Nigeria
-Nigeria;4.477;809;Benin
-Nigeria;4.477;1975;Cameroon
-Nigeria;4.477;85;Chad
-Nigeria;4.477;1608;Niger
-Niue;0;NA;no
-Norfolk Island;0;NA;no
-North Korea;1.607;1352;China
-North Korea;1.607;237;South
-North Korea;1.607;18;Russia
-Northern Mariana Islands;0;NA;no
-Norway;2.566;709;Finland
-Norway;2.566;1666;Sweden
-Norway;2.566;191;Russia
-Oman;1.561;658;Saudi
-Oman;1.561;609;UAE
-Oman;1.561;294;Yemen
-Pakistan;7.257;2670;Afghanistan
-Pakistan;7.257;438;China
-Pakistan;7.257;3190;India
-Pakistan;7.257;959;Iran
-Palau;0;NA;no
-Palmyra Atoll;0;NA;no
-Panama;687;339;Colombia
-Panama;687;348;Costa
-Papua New Guinea;824;824;Indonesia
-Paracel Islands;0;NA;no
-Paraguay;4.655;2531;Argentina
-Paraguay;4.655;753;Bolivia
-Paraguay;4.655;1371;Brazil
-Peru;7.062;1212;Bolivia
-Peru;7.062;2659;Brazil
-Peru;7.062;168;Chile
-Peru;7.062;1494;Colombia
-Peru;7.062;1529;Ecuador
-Philippines;0;NA;no
-Pitcairn Islands;0;NA;no
-Poland;3.071;418;Belarus
-Poland;3.071;796;Czech
-Poland;3.071;467;Germany
-Poland;3.071;104;Lithuania
-Poland;3.071;210;Russia
-Poland;3.071;541;Slovakia
-Poland;3.071;535;Ukraine
-Portugal;1.224;1224;Spain
-Puerto Rico;0;NA;no
-Qatar;87;87;Saudi
-Republic of the Congo;5.008;231;Angola
-Republic of the Congo;5.008;494;Cameroon
-Republic of the Congo;5.008;487;Central
-Republic of the Congo;5.008;1229;Democratic
-Republic of the Congo;5.008;2567;Gabon
-Romania;2.844;605;Bulgaria
-Romania;2.844;424;Hungary
-Romania;2.844;683;Moldova
-Romania;2.844;531;Serbia
-Romania;2.844;601;Ukraine
-Russia;22.408;338;Azerbaijan
-Russia;22.408;1312;Belarus
-Russia;22.408;4133;China
-Russia;22.408;46;China
-Russia;22.408;324;Estonia
-Russia;22.408;1309;Finland
-Russia;22.408;894;Georgia
-Russia;22.408;7644;Kazakhstan
-Russia;22.408;18;North
-Russia;22.408;332;Latvia
-Russia;22.408;261;Lithuania
-Russia;22.408;3452;Mongolia
-Russia;22.408;191;Norway
-Russia;22.408;210;Poland
-Russia;22.408;1944;Ukraine
-Rwanda;930;315;Burundi
-Rwanda;930;221;Democratic
-Rwanda;930;222;Tanzania
-Rwanda;930;172;Uganda
-Saint Barthelemy;0;NA;no
-Saint Helena;0;NA;no
-Saint Kitts and Nevis;0;NA;no
-Saint Lucia;0;NA;no
-Saint Martin;16;16;Sint
-Saint Pierre and Miquelon;0;NA;no
-Saint Vincent and the Grenadines;0;NA;no
-Samoa;0;NA;no
-San Marino;37;37;Italy
-Sao Tome and Principe;0;NA;no
-Saudi Arabia;4.272;811;Iraq
-Saudi Arabia;4.272;731;Jordan
-Saudi Arabia;4.272;221;Kuwait
-Saudi Arabia;4.272;658;Oman
-Saudi Arabia;4.272;87;Qatar
-Saudi Arabia;4.272;457;UAE
-Saudi Arabia;4.272;1307;Yemen
-Senegal;2.684;749;The
-Senegal;2.684;363;Guinea
-Senegal;2.684;341;Guinea
-Senegal;2.684;489;Mali
-Senegal;2.684;742;Mauritania
-Serbia;2.322;345;Bosnia
-Serbia;2.322;344;Bulgaria
-Serbia;2.322;314;Croatia
-Serbia;2.322;164;Hungary
-Serbia;2.322;366;Kosovo
-Serbia;2.322;101;Macedonia
-Serbia;2.322;157;Montenegro
-Serbia;2.322;531;Romania
-Seychelles;0;NA;no
-Sierra Leone;1.093;794;Guinea
-Sierra Leone;1.093;299;Liberia
-Singapore;0;NA;no
-Sint Maarten;16;16;Saint
-Slovakia;1.611;105;Austria
-Slovakia;1.611;241;Czech
-Slovakia;1.611;627;Hungary
-Slovakia;1.611;541;Poland
-Slovakia;1.611;97;Ukraine
-Slovenia;1.211;299;Austria
-Slovenia;1.211;600;Croatia
-Slovenia;1.211;94;Hungary
-Slovenia;1.211;218;Italy
-Solomon Islands;0;NA;no
-Somalia;2.385;61;Djibouti
-Somalia;2.385;1640;Ethiopia
-Somalia;2.385;684;Kenya
-South Africa;5.244;1969;Botswana
-South Africa;5.244;1106;Lesotho
-South Africa;5.244;496;Mozambique
-South Africa;5.244;1005;Namibia
-South Africa;5.244;438;Swaziland
-South Africa;5.244;230;Zimbabwe
-South Georgia and South Sandwich Islands;0;NA;no
-South Korea;237;237;North
-South Sudan;6.018;1055;Central
-South Sudan;6.018;714;Democratic
-South Sudan;6.018;1299;Ethiopia
-South Sudan;6.018;317;Kenya
-South Sudan;6.018;2158;Sudan
-South Sudan;6.018;475;Uganda
-Spain;1.952;63;Andorra
-Spain;1.952;646;France
-Spain;1.952;1;Gibraltar
-Spain;1.952;1224;Portugal
-Spain;1.952;8;Ceuta
-Spain;1.952;10;Melilla
-Spratly Islands;0;NA;no
-Sri Lanka;0;NA;no
-Sudan;6.819;174;Central
-Sudan;6.819;1403;Chad
-Sudan;6.819;1276;Egypt
-Sudan;6.819;682;Eritrea
-Sudan;6.819;744;Ethiopia
-Sudan;6.819;382;Libya
-Sudan;6.819;2158;South
-Suriname;1.907;515;Brazil
-Suriname;1.907;556;French
-Suriname;1.907;836;Guyana
-Svalbard;0;NA;no
-Swaziland;546;108;Mozambique
-Swaziland;546;438;South
-Sweden;2.211;545;Finland
-Sweden;2.211;1666;Norway
-Switzerland;1.77;158;Austria
-Switzerland;1.77;525;France
-Switzerland;1.77;698;Italy
-Switzerland;1.77;41;Liechtenstein
-Switzerland;1.77;348;Germany
-Syria;2.363;599;Iraq
-Syria;2.363;83;Israel
-Syria;2.363;379;Jordan
-Syria;2.363;403;Lebanon
-Syria;2.363;899;Turkey
-Taiwan;0;NA;no
-Tajikistan;4.13;1357;Afghanistan
-Tajikistan;4.13;477;China
-Tajikistan;4.13;984;Kyrgyzstan
-Tajikistan;4.13;1312;Uzbekistan
-Tanzania;4.161;589;Burundi
-Tanzania;4.161;479;Democratic
-Tanzania;4.161;775;Kenya
-Tanzania;4.161;512;Malawi
-Tanzania;4.161;840;Mozambique
-Tanzania;4.161;222;Rwanda
-Tanzania;4.161;391;Uganda
-Tanzania;4.161;353;Zambia
-Thailand;5.673;2416;Burma
-Thailand;5.673;817;Cambodia
-Thailand;5.673;1845;Laos
-Thailand;5.673;595;Malaysia
-The Gambia;749;749;Senegal
-The Gambia;749;NA;NA
-Timor-Leste;253;253;Indonesia
-Togo;1.88;651;Benin
-Togo;1.88;131;Burkina
-Togo;1.88;1098;Ghana
-Tokelau;0;NA;no
-Tonga;0;NA;no
-Trinidad and Tobago;0;NA;no
-Tunisia;1.495;1034;Algeria
-Tunisia;1.495;461;Libya
-Turkey;2.816;311;Armenia
-Turkey;2.816;17;Azerbaijan
-Turkey;2.816;223;Bulgaria
-Turkey;2.816;273;Georgia
-Turkey;2.816;192;Greece
-Turkey;2.816;534;Iran
-Turkey;2.816;367;Iraq
-Turkey;2.816;899;Syria
-Turkmenistan;4.158;804;Afghanistan
-Turkmenistan;4.158;1148;Iran
-Turkmenistan;4.158;413;Kazakhstan
-Turkmenistan;4.158;1793;Uzbekistan
-Turks and Caicos Islands;0;NA;no
-Tuvalu;0;NA;no
-Uganda;2.729;877;Democratic
-Uganda;2.729;814;Kenya
-Uganda;2.729;172;Rwanda
-Uganda;2.729;475;South
-Uganda;2.729;391;Tanzania
-Ukraine;5.618;1111;Belarus
-Ukraine;5.618;128;Hungary
-Ukraine;5.618;1202;Moldova
-Ukraine;5.618;535;Poland
-Ukraine;5.618;601;Romania
-Ukraine;5.618;1944;Russia
-Ukraine;5.618;97;Slovakia
-United Arab Emirates;1.066;609;Oman
-United Arab Emirates;1.066;457;Saudi
-United Kingdom;443;443;Ireland
-United States;12.048;8893;Canada
-United States;12.048;3155;Mexico
-United States;12.048;28;Cuba
-Uruguay;1.591;541;Argentina
-Uruguay;1.591;1050;Brazil
-Uzbekistan;6.893;144;Afghanistan
-Uzbekistan;6.893;2330;Kazakhstan
-Uzbekistan;6.893;1314;Kyrgyzstan
-Uzbekistan;6.893;1312;Tajikistan
-Uzbekistan;6.893;1793;Turkmenistan
-Vanuatu;0;NA;no
-Vatican;3.4;3;Italy
-Venezuela;5.267;2137;Brazil
-Venezuela;5.267;2341;Colombia
-Venezuela;5.267;789;Guyana
-Vietnam;4.616;1158;Cambodia
-Vietnam;4.616;1297;China
-Vietnam;4.616;2161;Laos
-Virgin Islands;0;NA;no
-Wake Island;0;NA;no
-Wallis and Futuna;0;NA;no
-West Bank;478;330;Israel
-West Bank;478;148;Jordan
-Western Sahara;2.049;41;Algeria
-Western Sahara;2.049;1564;Mauritania
-Western Sahara;2.049;444;Morocco
-Yemen;1.601;294;Oman
-Yemen;1.601;1307;Saudi
-Zambia;6.043;1065;Angola
-Zambia;6.043;0;Botswana
-Zambia;6.043;2332;Democratic
-Zambia;6.043;847;Malawi
-Zambia;6.043;439;Mozambique
-Zambia;6.043;244;Namibia
-Zambia;6.043;353;Tanzania
-Zambia;6.043;763;Zimbabwe
-Zimbabwe;3.229;834;Botswana
-Zimbabwe;3.229;1402;Mozambique
-Zimbabwe;3.229;230;South
-Zimbabwe;3.229;763;Zambia
+country,total_in_km,km,neighbor
+Afghanistan,5.987,91,China
+Afghanistan,5.987,921,Iran
+Afghanistan,5.987,2670,Pakistan
+Afghanistan,5.987,1357,Tajikistan
+Afghanistan,5.987,804,Turkmenistan
+Afghanistan,5.987,144,Uzbekistan
+Akrotiri,48,48,Cyprus
+Albania,691,212,Greece
+Albania,691,112,Kosovo
+Albania,691,181,Macedonia
+Albania,691,186,Montenegro
+Algeria,6.734,989,Libya
+Algeria,6.734,1359,Mali
+Algeria,6.734,460,Mauritania
+Algeria,6.734,1900,Morocco
+Algeria,6.734,951,Niger
+Algeria,6.734,1034,Tunisia
+Algeria,6.734,41,Western
+American Samoa,0,NA,no
+Andorra,118,55,France
+Andorra,118,63,Spain
+Angola,5.369,2646,Democratic
+Angola,5.369,231,Republic
+Angola,5.369,1427,Namibia
+Angola,5.369,1065,Zambia
+Anguilla,0,NA,no
+Antarctica,0,NA,no
+Antigua and Barbuda,0,NA,no
+Argentina,11.968,942,Bolivia
+Argentina,11.968,1263,Brazil
+Argentina,11.968,6691,Chile
+Argentina,11.968,2531,Paraguay
+Argentina,11.968,541,Uruguay
+Armenia,1.57,996,Azerbaijan
+Armenia,1.57,219,Georgia
+Armenia,1.57,44,Iran
+Armenia,1.57,311,Turkey
+Aruba,0,NA,no
+Ashmore and Cartier Islands,0,NA,no
+Australia,0,NA,no
+Austria,2.524,402,Czech
+Austria,2.524,801,Germany
+Austria,2.524,321,Hungary
+Austria,2.524,404,Italy
+Austria,2.524,34,Liechtenstein
+Austria,2.524,105,Slovakia
+Austria,2.524,299,Slovenia
+Austria,2.524,158,Switzerland
+Azerbaijan,2.468,996,Armenia
+Azerbaijan,2.468,428,Georgia
+Azerbaijan,2.468,689,Iran
+Azerbaijan,2.468,338,Russia
+Azerbaijan,2.468,17,Turkey
+Bahamas,0,NA,no
+Bahrain,0,NA,no
+Bangladesh,4.413,271,Burma
+Bangladesh,4.413,4142,India
+Barbados,0,NA,no
+Belarus,3.642,161,Latvia
+Belarus,3.642,640,Lithuania
+Belarus,3.642,418,Poland
+Belarus,3.642,1312,Russia
+Belarus,3.642,1111,Ukraine
+Belgium,1.297,556,France
+Belgium,1.297,133,Germany
+Belgium,1.297,130,Luxembourg
+Belgium,1.297,478,Netherlands
+Belize,542,266,Guatemala
+Belize,542,276,Mexico
+Benin,2.123,386,Burkina
+Benin,2.123,277,Niger
+Benin,2.123,809,Nigeria
+Benin,2.123,651,Togo
+Bermuda,0,NA,no
+Bhutan,1.136,477,China
+Bhutan,1.136,659,India
+Bolivia,7.252,942,Argentina
+Bolivia,7.252,3403,Brazil
+Bolivia,7.252,942,Chile
+Bolivia,7.252,753,Paraguay
+Bolivia,7.252,1212,Peru
+Bosnia and Herzegovina,1.543,956,Croatia
+Bosnia and Herzegovina,1.543,242,Montenegro
+Bosnia and Herzegovina,1.543,345,Serbia
+Botswana,4.347,1544,Namibia
+Botswana,4.347,1969,South
+Botswana,4.347,0,Zambia
+Botswana,4.347,834,Zimbabwe
+Bouvet Island,0,NA,no
+Brazil,16.145,1263,Argentina
+Brazil,16.145,3403,Bolivia
+Brazil,16.145,1790,Colombia
+Brazil,16.145,649,French
+Brazil,16.145,1308,Guyana
+Brazil,16.145,1371,Paraguay
+Brazil,16.145,2659,Peru
+Brazil,16.145,515,Suriname
+Brazil,16.145,1050,Uruguay
+Brazil,16.145,2137,Venezuela
+British Indian Ocean Territory,0,NA,no
+British Virgin Islands,0,NA,no
+Brunei,266,266,Malaysia
+Bulgaria,1.806,472,Greece
+Bulgaria,1.806,162,Macedonia
+Bulgaria,1.806,605,Romania
+Bulgaria,1.806,344,Serbia
+Bulgaria,1.806,223,Turkey
+Burkina Faso,3.611,386,Benin
+Burkina Faso,3.611,545,Cote
+Burkina Faso,3.611,602,Ghana
+Burkina Faso,3.611,1325,Mali
+Burkina Faso,3.611,622,Niger
+Burkina Faso,3.611,131,Togo
+Burma,6.522,271,Bangladesh
+Burma,6.522,2129,China
+Burma,6.522,1468,India
+Burma,6.522,238,Laos
+Burma,6.522,2416,Thailand
+Burundi,1.14,236,Democratic
+Burundi,1.14,315,Rwanda
+Burundi,1.14,589,Tanzania
+Cabo Verde,0,NA,no
+Cambodia,2.53,555,Laos
+Cambodia,2.53,817,Thailand
+Cambodia,2.53,1158,Vietnam
+Cameroon,5.018,901,Central
+Cameroon,5.018,1116,Chad
+Cameroon,5.018,494,Republic
+Cameroon,5.018,183,Equatorial
+Cameroon,5.018,349,Gabon
+Cameroon,5.018,1975,Nigeria
+Canada,8.893,8893,US
+Cayman Islands,0,NA,no
+Central African Republic,5.92,901,Cameroon
+Central African Republic,5.92,1556,Chad
+Central African Republic,5.92,1747,Democratic
+Central African Republic,5.92,487,Republic
+Central African Republic,5.92,1055,South
+Central African Republic,5.92,174,Sudan
+Chad,6.406,1116,Cameroon
+Chad,6.406,1556,Central
+Chad,6.406,1050,Libya
+Chad,6.406,1196,Niger
+Chad,6.406,85,Nigeria
+Chad,6.406,1403,Sudan
+Chile,7.801,6691,Argentina
+Chile,7.801,942,Bolivia
+Chile,7.801,168,Peru
+China,22.457,91,Afghanistan
+China,22.457,477,Bhutan
+China,22.457,2129,Burma
+China,22.457,2659,India
+China,22.457,1765,Kazakhstan
+China,22.457,1352,North
+China,22.457,1063,Kyrgyzstan
+China,22.457,475,Laos
+China,22.457,4630,Mongolia
+China,22.457,1389,Nepal
+China,22.457,438,Pakistan
+China,22.457,4133,Russia
+China,22.457,46,Russia
+China,22.457,477,Tajikistan
+China,22.457,1297,Vietnam
+China,22.457,3,Macau
+China,22.457,33,Hong
+Christmas Island,0,NA,no
+Clipperton Island,0,NA,no
+Cocos (Keeling) Islands,0,NA,no
+Colombia,6.672,1790,Brazil
+Colombia,6.672,708,Ecuador
+Colombia,6.672,339,Panama
+Colombia,6.672,1494,Peru
+Colombia,6.672,2341,Venezuela
+Comoros,0,NA,no
+Cook Islands,0,NA,no
+Coral Sea Islands,0,NA,no
+Costa Rica,661,313,Nicaragua
+Costa Rica,661,348,Panama
+Cote d'Ivoire,3.458,545,Burkina
+Cote d'Ivoire,3.458,720,Ghana
+Cote d'Ivoire,3.458,816,Guinea
+Cote d'Ivoire,3.458,778,Liberia
+Cote d'Ivoire,3.458,599,Mali
+Croatia,2.237,956,Bosnia
+Croatia,2.237,348,Hungary
+Croatia,2.237,19,Montenegro
+Croatia,2.237,314,Serbia
+Croatia,2.237,600,Slovenia
+Cuba,28.5,28,USA
+Curacao,0,NA,no
+Cyprus,156,48,Akrotiri
+Cyprus,156,108,Dhekelia
+Czech Republic,2.143,402,Austria
+Czech Republic,2.143,704,Germany
+Czech Republic,2.143,796,Poland
+Czech Republic,2.143,241,Slovakia
+Democratic Republic of the Congo,10.481,2646,Angola
+Democratic Republic of the Congo,10.481,236,Burundi
+Democratic Republic of the Congo,10.481,1747,Central
+Democratic Republic of the Congo,10.481,1229,Republic
+Democratic Republic of the Congo,10.481,221,Rwanda
+Democratic Republic of the Congo,10.481,714,South
+Democratic Republic of the Congo,10.481,479,Tanzania
+Democratic Republic of the Congo,10.481,877,Uganda
+Democratic Republic of the Congo,10.481,2332,Zambia
+Denmark,140,140,Germany
+Dhekelia,108,108,Cyprus
+Djibouti,528,125,Eritrea
+Djibouti,528,342,Ethiopia
+Djibouti,528,61,Somalia
+Dominica,0,NA,no
+Dominican Republic,376,376,Haiti
+Ecuador,2.237,708,Colombia
+Ecuador,2.237,1529,Peru
+Egypt,2.612,13,Gaza
+Egypt,2.612,208,Israel
+Egypt,2.612,1115,Libya
+Egypt,2.612,1276,Sudan
+El Salvador,590,199,Guatemala
+El Salvador,590,391,Honduras
+Equatorial Guinea,528,183,Cameroon
+Equatorial Guinea,528,345,Gabon
+Eritrea,1.84,125,Djibouti
+Eritrea,1.84,1033,Ethiopia
+Eritrea,1.84,682,Sudan
+Estonia,657,333,Latvia
+Estonia,657,324,Russia
+Ethiopia,5.925,342,Djibouti
+Ethiopia,5.925,1033,Eritrea
+Ethiopia,5.925,867,Kenya
+Ethiopia,5.925,1640,Somalia
+Ethiopia,5.925,1299,South
+Ethiopia,5.925,744,Sudan
+European Union,13.271,212,Albania
+European Union,13.271,118,Andorra
+European Union,13.271,1176,Belarus
+European Union,13.271,956,Bosnia
+European Union,13.271,3,Holy
+European Union,13.271,34,Liechtenstein
+European Union,13.271,396,Macedonia
+European Union,13.271,683,Moldova
+European Union,13.271,6,Monaco
+European Union,13.271,19,Montenegro
+European Union,13.271,2375,Norway
+European Union,13.271,2435,Russia
+European Union,13.271,37,San
+European Union,13.271,1353,Serbia
+European Union,13.271,1729,Switzerland
+European Union,13.271,415,Turkey
+European Union,13.271,1324,Ukraine
+Falkland Islands (Islas Malvinas),0,NA,no
+Faroe Islands,0,NA,no
+Fiji,0,NA,no
+Finland,2.563,709,Norway
+Finland,2.563,545,Sweden
+Finland,2.563,1309,Russia
+France,2.751,55,Andorra
+France,2.751,556,Belgium
+France,2.751,418,Germany
+France,2.751,476,Italy
+France,2.751,69,Luxembourg
+France,2.751,6,Monaco
+France,2.751,646,Spain
+France,2.751,525,Switzerland
+French Guiana,1205,649,Brazil
+French Guiana,1205,556,Suriname
+French Polynesia,0,NA,no
+French Southern and Antarctic Lands,0,NA,no
+Gabon,3.261,349,Cameroon
+Gabon,3.261,2567,Republic
+Gabon,3.261,345,Equatorial
+Gaza Strip,72,13,Egypt
+Gaza Strip,72,59,Israel
+Georgia,1.814,219,Armenia
+Georgia,1.814,428,Azerbaijan
+Georgia,1.814,894,Russia
+Georgia,1.814,273,Turkey
+Germany,3.714,801,Austria
+Germany,3.714,133,Belgium
+Germany,3.714,704,Czech
+Germany,3.714,140,Denmark
+Germany,3.714,418,France
+Germany,3.714,128,Luxembourg
+Germany,3.714,575,Netherlands
+Germany,3.714,467,Poland
+Germany,3.714,348,Switzerland
+Ghana,2.42,602,Burkina
+Ghana,2.42,720,Cote
+Ghana,2.42,1098,Togo
+Gibraltar,1.2,1,Spain
+Greece,1.11,212,Albania
+Greece,1.11,472,Bulgaria
+Greece,1.11,234,Macedonia
+Greece,1.11,192,Turkey
+Greenland,0,NA,no
+Grenada,0,NA,no
+Guam,0,NA,no
+Guatemala,1.667,266,Belize
+Guatemala,1.667,199,El
+Guatemala,1.667,244,Honduras
+Guatemala,1.667,958,Mexico
+Guernsey,0,NA,no
+Guinea,4.046,816,Cote
+Guinea,4.046,421,Guinea
+Guinea,4.046,590,Liberia
+Guinea,4.046,1062,Mali
+Guinea,4.046,363,Senegal
+Guinea,4.046,794,Sierra
+Guinea-Bissau,762,421,Guinea
+Guinea-Bissau,762,341,Senegal
+Guyana,2.933,1308,Brazil
+Guyana,2.933,836,Suriname
+Guyana,2.933,789,Venezuela
+Haiti,376,376,Dominican
+Heard Island and McDonald Islands,0,NA,no
+Honduras,1.575,244,Guatemala
+Honduras,1.575,391,El
+Honduras,1.575,940,Nicaragua
+Hong Kong,33,33,China
+Howland Island,0,NA,no
+Hungary,2.106,321,Austria
+Hungary,2.106,348,Croatia
+Hungary,2.106,424,Romania
+Hungary,2.106,164,Serbia
+Hungary,2.106,627,Slovakia
+Hungary,2.106,94,Slovenia
+Hungary,2.106,128,Ukraine
+Iceland,0,NA,no
+India,13.888,4142,Bangladesh
+India,13.888,659,Bhutan
+India,13.888,1468,Burma
+India,13.888,2659,China
+India,13.888,1770,Nepal
+India,13.888,3190,Pakistan
+Indonesia,2.958,253,Timor
+Indonesia,2.958,1881,Malaysia
+Indonesia,2.958,824,Papua
+Iran,5.894,921,Afghanistan
+Iran,5.894,44,Armenia
+Iran,5.894,689,Azerbaijan
+Iran,5.894,1599,Iraq
+Iran,5.894,959,Pakistan
+Iran,5.894,534,Turkey
+Iran,5.894,1148,Turkmenistan
+Iraq,3.809,1599,Iran
+Iraq,3.809,179,Jordan
+Iraq,3.809,254,Kuwait
+Iraq,3.809,811,Saudi
+Iraq,3.809,599,Syria
+Iraq,3.809,367,Turkey
+Ireland,443,443,UK
+Isle of Man,0,NA,no
+Israel,1.068,208,Egypt
+Israel,1.068,59,Gaza
+Israel,1.068,307,Jordan
+Israel,1.068,81,Lebanon
+Israel,1.068,83,Syria
+Israel,1.068,330,West
+Italy,1.836,404,Austria
+Italy,1.836,476,France
+Italy,1.836,3,Holy
+Italy,1.836,37,San
+Italy,1.836,218,Slovenia
+Italy,1.836,698,Switzerland
+Jamaica,0,NA,no
+Jan Mayen,0,NA,no
+Japan,0,NA,no
+Jarvis Island,0,NA,no
+Jersey,0,NA,no
+Johnston Atoll,0,NA,no
+Jordan,1.744,179,Iraq
+Jordan,1.744,307,Israel
+Jordan,1.744,731,Saudi
+Jordan,1.744,379,Syria
+Jordan,1.744,148,West
+Kazakhstan,13.364,1765,China
+Kazakhstan,13.364,1212,Kyrgyzstan
+Kazakhstan,13.364,7644,Russia
+Kazakhstan,13.364,413,Turkmenistan
+Kazakhstan,13.364,2330,Uzbekistan
+Kenya,3.457,867,Ethiopia
+Kenya,3.457,684,Somalia
+Kenya,3.457,317,South
+Kenya,3.457,775,Tanzania
+Kenya,3.457,814,Uganda
+Kingman Reef,0,NA,no
+Kiribati,0,NA,no
+Kosovo,714,112,Albania
+Kosovo,714,160,Macedonia
+Kosovo,714,76,Montenegro
+Kosovo,714,366,Serbia
+Kuwait,475,254,Iraq
+Kuwait,475,221,Saudi
+Kyrgyzstan,4.573,1063,China
+Kyrgyzstan,4.573,1212,Kazakhstan
+Kyrgyzstan,4.573,984,Tajikistan
+Kyrgyzstan,4.573,1314,Uzbekistan
+Laos,5.274,238,Burma
+Laos,5.274,555,Cambodia
+Laos,5.274,475,China
+Laos,5.274,1845,Thailand
+Laos,5.274,2161,Vietnam
+Latvia,1.37,161,Belarus
+Latvia,1.37,333,Estonia
+Latvia,1.37,544,Lithuania
+Latvia,1.37,332,Russia
+Lebanon,484,81,Israel
+Lebanon,484,403,Syria
+Lesotho,1.106,1106,South
+Liberia,1.667,590,Guinea
+Liberia,1.667,778,Cote
+Liberia,1.667,299,Sierra
+Libya,4.339,989,Algeria
+Libya,4.339,1050,Chad
+Libya,4.339,1115,Egypt
+Libya,4.339,342,Niger
+Libya,4.339,382,Sudan
+Libya,4.339,461,Tunisia
+Liechtenstein,75,34,Austria
+Liechtenstein,75,41,Switzerland
+Lithuania,1.549,640,Belarus
+Lithuania,1.549,544,Latvia
+Lithuania,1.549,104,Poland
+Lithuania,1.549,261,Russia
+Luxembourg,327,130,Belgium
+Luxembourg,327,69,France
+Luxembourg,327,128,Germany
+Macau,3,3,China
+Macedonia,838,181,Albania
+Macedonia,838,162,Bulgaria
+Macedonia,838,234,Greece
+Macedonia,838,160,Kosovo
+Macedonia,838,101,Serbia
+Madagascar,0,NA,no
+Malawi,2.857,1498,Mozambique
+Malawi,2.857,512,Tanzania
+Malawi,2.857,847,Zambia
+Malaysia,2.742,266,Brunei
+Malaysia,2.742,1881,Indonesia
+Malaysia,2.742,595,Thailand
+Maldives,0,NA,no
+Mali,7.908,1359,Algeria
+Mali,7.908,1325,Burkina
+Mali,7.908,599,Cote
+Mali,7.908,1062,Guinea
+Mali,7.908,2236,Mauritania
+Mali,7.908,838,Niger
+Mali,7.908,489,Senegal
+Malta,0,NA,no
+Marshall Islands,0,NA,no
+Mauritania,5.002,460,Algeria
+Mauritania,5.002,2236,Mali
+Mauritania,5.002,742,Senegal
+Mauritania,5.002,1564,Western
+Mauritius,0,NA,no
+Mexico,4.389,276,Belize
+Mexico,4.389,958,Guatemala
+Mexico,4.389,3155,US
+Micronesia,0,NA,no
+Midway Islands,0,NA,no
+Moldova,1.885,683,Romania
+Moldova,1.885,1202,Ukraine
+Monaco,6,6,France
+Mongolia,8.082,4630,China
+Mongolia,8.082,3452,Russia
+Montenegro,680,186,Albania
+Montenegro,680,242,Bosnia
+Montenegro,680,19,Croatia
+Montenegro,680,76,Kosovo
+Montenegro,680,157,Serbia
+Montserrat,0,NA,no
+Morocco,2.362,1900,Algeria
+Morocco,2.362,444,Western
+Morocco,2.362,8,Ceuta
+Morocco,2.362,10,Melilla
+Mozambique,4.783,1498,Malawi
+Mozambique,4.783,496,South
+Mozambique,4.783,108,Swaziland
+Mozambique,4.783,840,Tanzania
+Mozambique,4.783,439,Zambia
+Mozambique,4.783,1402,Zimbabwe
+Namibia,4.22,1427,Angola
+Namibia,4.22,1544,Botswana
+Namibia,4.22,1005,South
+Namibia,4.22,244,Zambia
+Nauru,0,NA,no
+Navassa Island,0,NA,no
+Nepal,3.159,1389,China
+Nepal,3.159,1770,India
+Netherlands,1.053,478,Belgium
+Netherlands,1.053,575,Germany
+New Caledonia,0,NA,no
+New Zealand,0,NA,no
+Nicaragua,1.253,313,Costa
+Nicaragua,1.253,940,Honduras
+Niger,5.834,951,Algeria
+Niger,5.834,277,Benin
+Niger,5.834,622,Burkina
+Niger,5.834,1196,Chad
+Niger,5.834,342,Libya
+Niger,5.834,838,Mali
+Niger,5.834,1608,Nigeria
+Nigeria,4.477,809,Benin
+Nigeria,4.477,1975,Cameroon
+Nigeria,4.477,85,Chad
+Nigeria,4.477,1608,Niger
+Niue,0,NA,no
+Norfolk Island,0,NA,no
+North Korea,1.607,1352,China
+North Korea,1.607,237,South
+North Korea,1.607,18,Russia
+Northern Mariana Islands,0,NA,no
+Norway,2.566,709,Finland
+Norway,2.566,1666,Sweden
+Norway,2.566,191,Russia
+Oman,1.561,658,Saudi
+Oman,1.561,609,UAE
+Oman,1.561,294,Yemen
+Pakistan,7.257,2670,Afghanistan
+Pakistan,7.257,438,China
+Pakistan,7.257,3190,India
+Pakistan,7.257,959,Iran
+Palau,0,NA,no
+Palmyra Atoll,0,NA,no
+Panama,687,339,Colombia
+Panama,687,348,Costa
+Papua New Guinea,824,824,Indonesia
+Paracel Islands,0,NA,no
+Paraguay,4.655,2531,Argentina
+Paraguay,4.655,753,Bolivia
+Paraguay,4.655,1371,Brazil
+Peru,7.062,1212,Bolivia
+Peru,7.062,2659,Brazil
+Peru,7.062,168,Chile
+Peru,7.062,1494,Colombia
+Peru,7.062,1529,Ecuador
+Philippines,0,NA,no
+Pitcairn Islands,0,NA,no
+Poland,3.071,418,Belarus
+Poland,3.071,796,Czech
+Poland,3.071,467,Germany
+Poland,3.071,104,Lithuania
+Poland,3.071,210,Russia
+Poland,3.071,541,Slovakia
+Poland,3.071,535,Ukraine
+Portugal,1.224,1224,Spain
+Puerto Rico,0,NA,no
+Qatar,87,87,Saudi
+Republic of the Congo,5.008,231,Angola
+Republic of the Congo,5.008,494,Cameroon
+Republic of the Congo,5.008,487,Central
+Republic of the Congo,5.008,1229,Democratic
+Republic of the Congo,5.008,2567,Gabon
+Romania,2.844,605,Bulgaria
+Romania,2.844,424,Hungary
+Romania,2.844,683,Moldova
+Romania,2.844,531,Serbia
+Romania,2.844,601,Ukraine
+Russia,22.408,338,Azerbaijan
+Russia,22.408,1312,Belarus
+Russia,22.408,4133,China
+Russia,22.408,46,China
+Russia,22.408,324,Estonia
+Russia,22.408,1309,Finland
+Russia,22.408,894,Georgia
+Russia,22.408,7644,Kazakhstan
+Russia,22.408,18,North
+Russia,22.408,332,Latvia
+Russia,22.408,261,Lithuania
+Russia,22.408,3452,Mongolia
+Russia,22.408,191,Norway
+Russia,22.408,210,Poland
+Russia,22.408,1944,Ukraine
+Rwanda,930,315,Burundi
+Rwanda,930,221,Democratic
+Rwanda,930,222,Tanzania
+Rwanda,930,172,Uganda
+Saint Barthelemy,0,NA,no
+Saint Helena,0,NA,no
+Saint Kitts and Nevis,0,NA,no
+Saint Lucia,0,NA,no
+Saint Martin,16,16,Sint
+Saint Pierre and Miquelon,0,NA,no
+Saint Vincent and the Grenadines,0,NA,no
+Samoa,0,NA,no
+San Marino,37,37,Italy
+Sao Tome and Principe,0,NA,no
+Saudi Arabia,4.272,811,Iraq
+Saudi Arabia,4.272,731,Jordan
+Saudi Arabia,4.272,221,Kuwait
+Saudi Arabia,4.272,658,Oman
+Saudi Arabia,4.272,87,Qatar
+Saudi Arabia,4.272,457,UAE
+Saudi Arabia,4.272,1307,Yemen
+Senegal,2.684,749,The
+Senegal,2.684,363,Guinea
+Senegal,2.684,341,Guinea
+Senegal,2.684,489,Mali
+Senegal,2.684,742,Mauritania
+Serbia,2.322,345,Bosnia
+Serbia,2.322,344,Bulgaria
+Serbia,2.322,314,Croatia
+Serbia,2.322,164,Hungary
+Serbia,2.322,366,Kosovo
+Serbia,2.322,101,Macedonia
+Serbia,2.322,157,Montenegro
+Serbia,2.322,531,Romania
+Seychelles,0,NA,no
+Sierra Leone,1.093,794,Guinea
+Sierra Leone,1.093,299,Liberia
+Singapore,0,NA,no
+Sint Maarten,16,16,Saint
+Slovakia,1.611,105,Austria
+Slovakia,1.611,241,Czech
+Slovakia,1.611,627,Hungary
+Slovakia,1.611,541,Poland
+Slovakia,1.611,97,Ukraine
+Slovenia,1.211,299,Austria
+Slovenia,1.211,600,Croatia
+Slovenia,1.211,94,Hungary
+Slovenia,1.211,218,Italy
+Solomon Islands,0,NA,no
+Somalia,2.385,61,Djibouti
+Somalia,2.385,1640,Ethiopia
+Somalia,2.385,684,Kenya
+South Africa,5.244,1969,Botswana
+South Africa,5.244,1106,Lesotho
+South Africa,5.244,496,Mozambique
+South Africa,5.244,1005,Namibia
+South Africa,5.244,438,Swaziland
+South Africa,5.244,230,Zimbabwe
+South Georgia and South Sandwich Islands,0,NA,no
+South Korea,237,237,North
+South Sudan,6.018,1055,Central
+South Sudan,6.018,714,Democratic
+South Sudan,6.018,1299,Ethiopia
+South Sudan,6.018,317,Kenya
+South Sudan,6.018,2158,Sudan
+South Sudan,6.018,475,Uganda
+Spain,1.952,63,Andorra
+Spain,1.952,646,France
+Spain,1.952,1,Gibraltar
+Spain,1.952,1224,Portugal
+Spain,1.952,8,Ceuta
+Spain,1.952,10,Melilla
+Spratly Islands,0,NA,no
+Sri Lanka,0,NA,no
+Sudan,6.819,174,Central
+Sudan,6.819,1403,Chad
+Sudan,6.819,1276,Egypt
+Sudan,6.819,682,Eritrea
+Sudan,6.819,744,Ethiopia
+Sudan,6.819,382,Libya
+Sudan,6.819,2158,South
+Suriname,1.907,515,Brazil
+Suriname,1.907,556,French
+Suriname,1.907,836,Guyana
+Svalbard,0,NA,no
+Swaziland,546,108,Mozambique
+Swaziland,546,438,South
+Sweden,2.211,545,Finland
+Sweden,2.211,1666,Norway
+Switzerland,1.77,158,Austria
+Switzerland,1.77,525,France
+Switzerland,1.77,698,Italy
+Switzerland,1.77,41,Liechtenstein
+Switzerland,1.77,348,Germany
+Syria,2.363,599,Iraq
+Syria,2.363,83,Israel
+Syria,2.363,379,Jordan
+Syria,2.363,403,Lebanon
+Syria,2.363,899,Turkey
+Taiwan,0,NA,no
+Tajikistan,4.13,1357,Afghanistan
+Tajikistan,4.13,477,China
+Tajikistan,4.13,984,Kyrgyzstan
+Tajikistan,4.13,1312,Uzbekistan
+Tanzania,4.161,589,Burundi
+Tanzania,4.161,479,Democratic
+Tanzania,4.161,775,Kenya
+Tanzania,4.161,512,Malawi
+Tanzania,4.161,840,Mozambique
+Tanzania,4.161,222,Rwanda
+Tanzania,4.161,391,Uganda
+Tanzania,4.161,353,Zambia
+Thailand,5.673,2416,Burma
+Thailand,5.673,817,Cambodia
+Thailand,5.673,1845,Laos
+Thailand,5.673,595,Malaysia
+The Gambia,749,749,Senegal
+The Gambia,749,NA,NA
+Timor-Leste,253,253,Indonesia
+Togo,1.88,651,Benin
+Togo,1.88,131,Burkina
+Togo,1.88,1098,Ghana
+Tokelau,0,NA,no
+Tonga,0,NA,no
+Trinidad and Tobago,0,NA,no
+Tunisia,1.495,1034,Algeria
+Tunisia,1.495,461,Libya
+Turkey,2.816,311,Armenia
+Turkey,2.816,17,Azerbaijan
+Turkey,2.816,223,Bulgaria
+Turkey,2.816,273,Georgia
+Turkey,2.816,192,Greece
+Turkey,2.816,534,Iran
+Turkey,2.816,367,Iraq
+Turkey,2.816,899,Syria
+Turkmenistan,4.158,804,Afghanistan
+Turkmenistan,4.158,1148,Iran
+Turkmenistan,4.158,413,Kazakhstan
+Turkmenistan,4.158,1793,Uzbekistan
+Turks and Caicos Islands,0,NA,no
+Tuvalu,0,NA,no
+Uganda,2.729,877,Democratic
+Uganda,2.729,814,Kenya
+Uganda,2.729,172,Rwanda
+Uganda,2.729,475,South
+Uganda,2.729,391,Tanzania
+Ukraine,5.618,1111,Belarus
+Ukraine,5.618,128,Hungary
+Ukraine,5.618,1202,Moldova
+Ukraine,5.618,535,Poland
+Ukraine,5.618,601,Romania
+Ukraine,5.618,1944,Russia
+Ukraine,5.618,97,Slovakia
+United Arab Emirates,1.066,609,Oman
+United Arab Emirates,1.066,457,Saudi
+United Kingdom,443,443,Ireland
+United States,12.048,8893,Canada
+United States,12.048,3155,Mexico
+United States,12.048,28,Cuba
+Uruguay,1.591,541,Argentina
+Uruguay,1.591,1050,Brazil
+Uzbekistan,6.893,144,Afghanistan
+Uzbekistan,6.893,2330,Kazakhstan
+Uzbekistan,6.893,1314,Kyrgyzstan
+Uzbekistan,6.893,1312,Tajikistan
+Uzbekistan,6.893,1793,Turkmenistan
+Vanuatu,0,NA,no
+Vatican,3.4,3,Italy
+Venezuela,5.267,2137,Brazil
+Venezuela,5.267,2341,Colombia
+Venezuela,5.267,789,Guyana
+Vietnam,4.616,1158,Cambodia
+Vietnam,4.616,1297,China
+Vietnam,4.616,2161,Laos
+Virgin Islands,0,NA,no
+Wake Island,0,NA,no
+Wallis and Futuna,0,NA,no
+West Bank,478,330,Israel
+West Bank,478,148,Jordan
+Western Sahara,2.049,41,Algeria
+Western Sahara,2.049,1564,Mauritania
+Western Sahara,2.049,444,Morocco
+Yemen,1.601,294,Oman
+Yemen,1.601,1307,Saudi
+Zambia,6.043,1065,Angola
+Zambia,6.043,0,Botswana
+Zambia,6.043,2332,Democratic
+Zambia,6.043,847,Malawi
+Zambia,6.043,439,Mozambique
+Zambia,6.043,244,Namibia
+Zambia,6.043,353,Tanzania
+Zambia,6.043,763,Zimbabwe
+Zimbabwe,3.229,834,Botswana
+Zimbabwe,3.229,1402,Mozambique
+Zimbabwe,3.229,230,South
+Zimbabwe,3.229,763,Zambia
